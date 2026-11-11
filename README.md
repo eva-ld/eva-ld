@@ -1,6 +1,6 @@
 ## Hola 👋
 
-**eva-ld/eva-ld** es un repoitorio en GitHub donde puede conocer a Eva Lozano díez un poco  más
+**eva-ld** es un repoitorio en GitHub donde puede conocer a Eva Lozano díez un poco  más
 
 - 🌱 Soy estudiante de DAM en el C.I.F.P. Federica Montseny, ubicado en fuenlabra.
 - 👯 Actualmente trabajo en talleres para niños como profesora de baile y guardianes de la naturaleza
